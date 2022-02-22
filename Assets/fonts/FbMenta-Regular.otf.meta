@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5f8b97839be3b1846be43a4ddf0c0c96
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FbMenta
+  fontNames:
+  - FbMenta
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3d55e07e761c67d4dacf1bfb4ec03455, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
